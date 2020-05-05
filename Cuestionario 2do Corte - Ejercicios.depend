@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588699377 source:d:\clases\3er semestre\lenguaje 2\problema 3 lenguaje\beta\cuestionario 2do corte - ejercicios\main.cpp
+	<iostream>
+	<fstream>
+	"funciones.h"
+
+1588643908 d:\clases\3er semestre\lenguaje 2\problema 3 lenguaje\beta\cuestionario 2do corte - ejercicios\funciones.h
+	<iostream>
+
